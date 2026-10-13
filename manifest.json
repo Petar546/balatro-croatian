@@ -1,0 +1,10 @@
+{
+  "name": "Croatian Localization",
+  "id": "croatian_loc",
+  "author": "Petar546",
+  "version": "1.0.0",
+  "description": "Prijevod igre Balatro na hrvatski jezik.",
+  "prefix": "hrv",
+  "dependencies": []
+}
+
